@@ -1058,6 +1058,26 @@ section {
   color: red;
 }
 
+.cta-btni {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 35px;
+  border-radius: 5px;
+  transition: 0.5s;
+  margin-top: 10px;
+  /* border: 2px solid #ff0000; */
+  background-color: #000000;
+  color: #000000;
+}
+
+ .cta-btni:hover {
+  background: #ad0f0f;
+  color: rgb(255, 0, 0);
+}
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
